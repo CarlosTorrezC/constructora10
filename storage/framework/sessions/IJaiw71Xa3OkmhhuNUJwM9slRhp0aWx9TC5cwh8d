@@ -1,1 +1,1 @@
-a:5:{s:6:"_token";s:40:"cbbo0qBCgcgp4lNxC8PrgAguSVG9hQy51B8684bh";s:9:"_previous";a:1:{s:3:"url";s:35:"http://127.0.0.1:8000/configuracion";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:18:"sessionLoggedEmail";s:17:"usuario@gmail.com";s:16:"sessionLoggedRol";i:1;}
+a:5:{s:6:"_token";s:40:"cbbo0qBCgcgp4lNxC8PrgAguSVG9hQy51B8684bh";s:9:"_previous";a:1:{s:3:"url";s:35:"http://127.0.0.1:8000/configuracion";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:18:"sessionLoggedEmail";s:15:"admin@gmail.com";s:16:"sessionLoggedRol";i:2;}
